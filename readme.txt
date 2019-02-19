@@ -2,7 +2,7 @@
 DVSNet: Deep variance-stabilized network robust to spatially variant characteristics in imaging, accepted in IET Electronics Letters, 2019.
 
 # Cite this work
-Please cite the following paper if you use our dataset or excutable program.
+Please cite the following paper if you use our excutable program.
 ```
 @article{
   title={DVSNet: Deep variance-stabilized network robust to spatially variant characteristics in imaging},
