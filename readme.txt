@@ -4,11 +4,14 @@ DVSNet: Deep variance-stabilized network robust to spatially variant characteris
 
 # Paper's results
 
-![Fig. 3 Restoration results for Boats image using different methods](DVSNet/images/Figure 3.png)
+![New](DVSNet/images/Figure 3.png)
+Fig. 3 Restoration results for Boats image using different methods
 
-![Fig. 4 Restoration results for Boats image using different methods](DVSNet/images/Figure 4.png)
+![New](DVSNet/images/Figure 4.png)
+Fig. 4 Restoration results for Boats image using different methods
 
-![Table 1: Comparison of objective qualities in terms of PSNR (dB)](DVSNet/images/Table 1.png)
+Table 1: Comparison of objective qualities in terms of PSNR (dB)
+![New](DVSNet/images/Table 1.png)
 
 
 # Cite this work
