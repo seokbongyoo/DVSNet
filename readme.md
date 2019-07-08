@@ -1,6 +1,7 @@
 # DVSNet
-DVSNet: Deep variance-stabilized network robust to spatially variant characteristics in imaging, appear in IET Electronics Letters, 2019.
+DVSNet: deep variance-stabilised network robust to spatially variant characteristics in imaging, IET Electronics Letters, vol. 55, no. 9, May 2019.
 
+DOI: 10.1049/el.2019.0102
 
 # Paper's results
 
@@ -19,9 +20,9 @@ Please cite the following paper if you use our excutable program.
   title={DVSNet: Deep variance-stabilized network robust to spatially variant characteristics in imaging},
   author={Seok Bong Yoo, Mikyong Han},
   journal={Electronics Letters},
-  volume={ },
-  number={ },
-  pages={ },
+  volume={55},
+  number={9},
+  pages={529-531},
   year={2019},
   publisher={IET}
 }
